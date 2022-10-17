@@ -1,0 +1,14 @@
+{
+    "classes": [
+        {
+            "title": "Fish",
+            "shape": "rectangle",
+            "color": "#8B1887",
+            "geometry_config": {},
+            "id": 10164362,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "videos"
+}
